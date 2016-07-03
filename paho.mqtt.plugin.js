@@ -10,7 +10,7 @@
 		"display_name": "Paho MQTT",
         "description" : "Receive data from an MQTT server.",
 		"external_scripts" : [
-			"<full address of the paho mqtt javascript client>"
+			"iot.eclipse.org"
 		],
 		"settings"    : [
 			{
