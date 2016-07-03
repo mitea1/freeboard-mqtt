@@ -10,7 +10,7 @@
 		"display_name": "IBM IoT Foundation",
         "description" : "Receive data from your devices in IBM IoT Foundation.",
 		"external_scripts" : [
-			"iot.eclipse.org"
+			"https://eclipse.org/paho/clients/js/utility/"
 		],
 		"settings"    : [
 			{
